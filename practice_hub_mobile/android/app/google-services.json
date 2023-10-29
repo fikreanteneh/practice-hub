@@ -1,0 +1,46 @@
+ {
+  "project_info": {
+    "project_number": "555314075531",
+    "project_id": "practice-hub-df52a",
+    "storage_bucket": "practice-hub-df52a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555314075531:android:8de728611cd1f7bdc0418e",
+        "android_client_info": {
+          "package_name": "com.example.practice_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555314075531-hvug6qvcspdvqscm4iooidobstb0f8oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB24QHu79G_wseGc3V9cUolcrPtdMtI9-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555314075531-e9antmk8qcja45midiem84d4touven5l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555314075531-jf5nd29fnj19ket7evjd64d4t29ip091.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.practiceHub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

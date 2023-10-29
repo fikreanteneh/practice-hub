@@ -1,0 +1,24 @@
+export type Student = {
+  Id: string;
+  CreatedAt: string;
+  UserName: string;
+  FullName: string;
+  SolutionCount: number;
+  SolveCount: number;
+  DiscussionCount: number;
+  LikeCount: number;
+  DislikeCount: number;
+  FavouriteCount: number;
+};
+
+export type StudentCreate = {
+    UserName: string;
+    FullName: string;
+}
+
+export type StudentUpdate = {
+  Id: string;
+  UserName: string;
+  FullName: string;
+};
+
